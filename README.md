@@ -4,7 +4,7 @@
 
 ### Sync ###
 ```bash
-        repo init -u https://github.com/christop23/manifest.git -b 14 --git-lfs
+repo init -u https://github.com/christop23/manifest.git -b 14 --git-lfs
 ```
 
 ### Build ###
